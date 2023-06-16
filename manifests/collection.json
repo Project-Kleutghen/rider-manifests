@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sarahrider.github.io/self-manifests/manifests/dog_manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : null,
+    "@id" : null,
+    "label" : null
   } ]
 }
