@@ -2,10 +2,10 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://sarahrider.github.io/self-manifests/manifests/dog_manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
-  "metadata" : [ ],
+  "label" : "Cute dog!",
+  "metadata" : From a museum somewhere,
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "very cool description",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
