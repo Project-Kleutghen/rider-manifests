@@ -3,7 +3,7 @@
   "@id" : "https://sarahrider.github.io/self-manifests/manifests/dog_manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Cute dog!",
-  "metadata" : From a museum somewhere,
+  "metadata" : "from a museum somewhere",
   "description" : [ {
     "@value" : "very cool description",
     "@language" : "en"
