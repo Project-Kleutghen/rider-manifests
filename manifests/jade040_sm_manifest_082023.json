@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://sarahrider.github.io/self-manifests/manifests/jade040_sm_manifest_082023.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "Gourd Shaped Cup",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "This is a self-made manifest of the NPMT Jade Imperial Collection Number 2810.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Made and uploaded by Sarah Rider but available as Creative Commons.",
   "sequences" : [ {
     "@id" : "http://6eb43db4-d25f-47df-b1d8-7fd2146ffc3e",
     "@type" : "sc:Sequence",
