@@ -21,5 +21,9 @@
     "@type" : null,
     "@id" : null,
     "label" : null
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sarahrider.github.io/self-manifests/manifests/jade040_sm_manifest_082023.json",
+    "label" : "[Click to edit label]"
   } ]
 }
