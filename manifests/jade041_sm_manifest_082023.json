@@ -2,10 +2,10 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://sarahrider.github.io/self-manifests/manifests/jade041_sm_manifest_082023.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "Green jade plate inlaid with gold wire and colored glass",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "Green jade plate inlaid with gold wire and colored glass (1983); Round plate with carved floral patterns (2007)",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
