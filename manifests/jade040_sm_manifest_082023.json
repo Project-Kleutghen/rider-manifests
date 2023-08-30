@@ -40,18 +40,18 @@
           "height" : 2122,
           "width" : 2829
         },
-        "on" : "http://4cb7110b-189a-4946-b00e-984f164379d2"
+        "on" : "."
       } ],
       "related" : ""
     }, {
-      "@id" : "http://ee01d47d-1bac-4afc-831b-a6166794e0a6",
+      "@id" : ".",
       "@type" : "sc:Canvas",
       "label" : "Exterior with inscription",
       "height" : 2982,
       "width" : 2013,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://05f8d332-bffc-402f-a2a4-93982b44fd68",
+        "@id" : ".",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -92,18 +92,18 @@
           "height" : 2122,
           "width" : 2829
         },
-        "on" : "http://a3c15175-1edc-4e39-8388-bb39af3df4a0"
+        "on" : "."
       } ],
       "related" : ""
     }, {
-      "@id" : "http://1dc7cf01-f45c-4ada-b2cf-ce06dc1b1903",
+      "@id" : ".",
       "@type" : "sc:Canvas",
       "label" : "Interior ladle",
       "height" : 2829,
       "width" : 2122,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://ff5851c5-2dd4-46bb-872a-719e9ecff9bd",
+        "@id" : ".",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -118,18 +118,18 @@
           "height" : 2829,
           "width" : 2122
         },
-        "on" : "http://1dc7cf01-f45c-4ada-b2cf-ce06dc1b1903"
+        "on" : "."
       } ],
       "related" : ""
     }, {
-      "@id" : "http://41eafba6-e4c0-4206-af82-a33ecfba1c38",
+      "@id" : ".",
       "@type" : "sc:Canvas",
       "label" : "Ladle back",
       "height" : 2122,
       "width" : 2829,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://d52f1289-0b18-46bd-b3b5-1f4705b15a36",
+        "@id" : ".",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
@@ -144,7 +144,7 @@
           "height" : 2122,
           "width" : 2829
         },
-        "on" : "http://41eafba6-e4c0-4206-af82-a33ecfba1c38"
+        "on" : "."
       } ],
       "related" : ""
     } ]
