@@ -11,21 +11,21 @@
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "Made and uploaded by Sarah Rider but available as Creative Commons.",
   "sequences" : [ {
-    "@id" : ".",
+    "@id" : "http://6eb43db4-d25f-47df-b1d8-7fd2146ffc3e",
     "@type" : "sc:Sequence",
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
     } ],
     "canvases" : [ {
-      "@id" : ".",
+      "@id" : "http://4cb7110b-189a-4946-b00e-984f164379d2",
       "@type" : "sc:Canvas",
       "label" : "Front",
       "height" : 2122,
       "width" : 2829,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : ".",
+        "@id" : "http://aa98d2ea-ba82-456d-8af4-2d5e1fd1844b",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
