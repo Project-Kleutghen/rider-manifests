@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sarahrider.github.io/self-manifests/manifests/Largeroundwhitejadebowl",
     "label" : "Jade053"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sarahrider.github.io/self-manifests/manifests/disc",
+    "label" : "Jade110"
   } ]
 }
