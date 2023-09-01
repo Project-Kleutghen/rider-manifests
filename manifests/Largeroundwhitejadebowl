@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://sarahrider.github.io/self-manifests/manifests/Largeroundwhitejadebowl",
   "@type" : "sc:Manifest",
-  "label" : "Jade053",
+  "label" : "Large round white jade bowl",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Jade floral-shaped bowl with four petals decoration",
