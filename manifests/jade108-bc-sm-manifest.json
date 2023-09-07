@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sarahrider.github.io/self-manifests/manifests/jade108-bc-sm-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Pale green jade bowl",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Pale green jade bowl, with poem incised on outer and inner walls. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Images from British Museum. Manifest created and uploaded by Sarah Rider. Available as Creative Commons. ",
+  "sequences" : [ {
+    "@id" : "http://cc4622ef-6a2a-459b-9393-fff844356c6b",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://30107f2d-94c8-4b35-9332-f4a29d807b99",
+      "@type" : "sc:Canvas",
+      "label" : "Front",
+      "height" : 1252,
+      "width" : 2298,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://11dff80f-0205-4d23-a938-2a70b1661cd5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade108-front/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade108-front",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1252,
+          "width" : 2298
+        },
+        "on" : "http://30107f2d-94c8-4b35-9332-f4a29d807b99"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://35af5937-51dc-49e9-a20a-d42d70c6ae7d",
+      "@type" : "sc:Canvas",
+      "label" : "Front with inside view",
+      "height" : 1662,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://32b5ee06-791e-4db4-a0c3-950a9a9cd709",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade108-front-inside/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade108-front-inside",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1662,
+          "width" : 2500
+        },
+        "on" : "http://35af5937-51dc-49e9-a20a-d42d70c6ae7d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d5c2dfa3-b386-4cb4-9455-4bbefe8f09ff",
+      "@type" : "sc:Canvas",
+      "label" : "Inside",
+      "height" : 1662,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f3a5fdbf-19bd-460e-a666-cbc2e9b971bb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade108-inside/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade108-inside",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1662,
+          "width" : 2500
+        },
+        "on" : "http://d5c2dfa3-b386-4cb4-9455-4bbefe8f09ff"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c5ecdf6b-b6ef-429c-8f1f-54030b637c03",
+      "@type" : "sc:Canvas",
+      "label" : "Bottom",
+      "height" : 1662,
+      "width" : 2500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cb74f3a3-2a70-4fee-8807-e092e099d4e2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade108-bottom_202309/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade108-bottom_202309",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1662,
+          "width" : 2500
+        },
+        "on" : "http://c5ecdf6b-b6ef-429c-8f1f-54030b637c03"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
