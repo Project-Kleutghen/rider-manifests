@@ -41,5 +41,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sarahrider.github.io/self-manifests/manifests/jade107-aic-sm-manifest.json",
     "label" : "Musical Chime"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sarahrider.github.io/self-manifests/manifests/jade108-bc-sm-manifest.json",
+    "label" : "Pale green jade bowl"
   } ]
 }
