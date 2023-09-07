@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sarahrider.github.io/self-manifests/manifests/jade107-aic-sm-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Musical Chime",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Musical Chime, JadeID: 107. Currently held at the Art Institute of Chicago.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Image from the Art Institute of Chicago. Manifest created and uploaded by Sarah Rider. Accessible as Creative Commons.",
+  "sequences" : [ {
+    "@id" : "http://b7b10893-e10a-41c4-8a70-1605411203b0",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://080595ef-451c-4a86-9007-b0463ff7e5be",
+      "@type" : "sc:Canvas",
+      "label" : "Musical Chime",
+      "height" : 1524,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7b30457d-5a56-4216-9e5e-bfb5c1720a09",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/jade107/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/jade107",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1524,
+          "width" : 3000
+        },
+        "on" : "http://080595ef-451c-4a86-9007-b0463ff7e5be"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
